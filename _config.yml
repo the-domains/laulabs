@@ -1,0 +1,14 @@
+layout_spectrum: 0.07380914222449064
+typography_spectrum: 0.9142029681243002
+color:
+  brandStrength: 0.04321767366491258
+  lightness: 0.3799357144162059
+  saturation: 0.12435851618647575
+  rhythmicContrast: 0.024536646669730544
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: laulabs
